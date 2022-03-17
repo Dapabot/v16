@@ -3,7 +3,7 @@ const topuppointblank = (prefix) => {
 *PILIH DIBAWAH YA!!!*
 *LIST TOPUP PB*
 *NO ILEGAL*
-_tidak tersedia, ke Indomaret Sono_
+_tidak tersedia, ke Indomaret Sono,aowkaokawok_
 `
 }
 
