@@ -1,6 +1,6 @@
 const topupsaldo = (prefix) => { 
 	return `*HALLO KAK👋*
-*PILIH DIBAWAH YA!!!*
+*PILIH DIBAWAH YA!!*
 • ${prefix}topupgopay
 • ${prefix}topupdana
 • ${prefix}topupovo
