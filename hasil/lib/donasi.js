@@ -1,13 +1,13 @@
 const donasi = (pushname, prefix, botName, ownerName) => { 
 	return `Hallo, kak bantu donasi ya supaya bot lebih baik👋
 ╔════════════════════
-║ *DONASI UNTUK RAMDANI BOTZ*
+║ *DONASI UNTUK YANZ BOTZ*
 ╠════════════════════
 ║╭──❉ *DONASI KAK* ❉─────
-║│➸ *GOPAY* : _tidak tersedia_
-║│➸ *DANA* : 089512545999
-║│➸ *OVO* : 089512545999
-║│➸ *PULSA* : 088296339947
+║│➸ *GOPAY* : 083103592954
+║│➸ *DANA* : _tidak tersedia_
+║│➸ *OVO* : _tidak tersedia_
+║│➸ *PULSA* : private
 ║╰──────────────────
 ╠════════════════════
 ║       
@@ -15,7 +15,7 @@ const donasi = (pushname, prefix, botName, ownerName) => {
 ║  ▌│█║▌║▌║║▌║▌║█│▌
 ║        
 ╠════════════════════
-║ _*© CREATOR BY RAMDANI OFFICIAL*_
+║ _*© CREATOR BY YANZ OFFICIAL*_
 ╚════════════════════`
 }
 
