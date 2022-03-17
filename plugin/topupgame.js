@@ -1,6 +1,6 @@
 const topupgame = (prefix) => { 
 	return `*HALLO KAK👋*
-*PILIH DIBAWAH YA!!!*
+*PILIH DIBAWAH YA❗❗*
 • ${prefix}topupfreefire
 • ${prefix}topupmobilelegends
 • ${prefix}topuppubg
