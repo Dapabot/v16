@@ -1,5 +1,5 @@
 const payment = (prefix) => { 
-	return `• *PAYMENT*
+	return `• *PAYMENT💳*
 *GOPAY :* ${gopay}
 *DANA :* ${dana}
 *OVO :* ${ovo}
